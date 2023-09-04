@@ -1,0 +1,8 @@
+declare const COMPONENT_KEYSTORE: string;
+declare const COMPONENT_PASSWORD: string;
+declare const WALLET_PRIVATE_KEY: string;
+declare const WALLET_PUBLIC_KEY: string;
+declare const WALLET_ENCRYPTING_PASSWORD: string;
+declare const ENTITY_DID: string;
+declare const ENTITY_NAME: string;
+export { COMPONENT_KEYSTORE, COMPONENT_PASSWORD, WALLET_PRIVATE_KEY, WALLET_PUBLIC_KEY, WALLET_ENCRYPTING_PASSWORD, ENTITY_DID, ENTITY_NAME, };
